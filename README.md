@@ -1,6 +1,6 @@
 # Dataquest Guided Projects
 
-This repo contains several projects undertake while learning about data science (following Dataquest courses).
+This repo contains several projects I undertook while studying Data Science (following Dataquest courses).
 
 - Profitable app profile : The aim of this project is to analyse and gain key information about mobile application on the two main markets (GooglePlay and Apple Store) in order to help the marketing strategy.
 
