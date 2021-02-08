@@ -13,3 +13,5 @@ This repo contains several projects I undertook while studying Data Science (fol
 - Handwritten digit recognition : quite self-explanatory, here we'll take a look at different classifying algorithm (KNN, MLP, decision tree and Random Forest).
 
 - House Sale Price Estimation : Here we'll use the AmesHousing dataset to predict the price of a house. Building a better model at incrementally while creating a well structured method in the process. It all comes down to three main steps : transform the features, select them and testing the model. This a is a great start for any prediction problem.
+
+- Predicting Stock Market : you want to get rich real fast and easy ? Here is the solution ! Here we'll predict the stock market using feature engineering and a mere linear regression. A good starting point for time series analysis !
