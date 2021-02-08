@@ -7,3 +7,5 @@ This repo contains several projects I undertook while studying Data Science (fol
 - Bike Rental Prediction : in this project, we will explore and predict bike rental services needs based on date, time and weather condition. To do so, we'll use different regression models, error metrics and hyperparameter tuning.
 
 - Car Price Prediction : after exploring and cleaning the dataset, we'll predict a car price based on its mecanical caracteristic. Here you will see data cleaning (removing or replacing missing values), univariate and multivariate K Neighboor regression.
+
+- Kaggle Titanic Problem : This project is a skeleton of a submission workflow for the notorious Titanic problem from Kaggle (https://www.kaggle.com/c/titanic). It includes data cleaning and processing, feature engineering and selection, grid search on different regression models and submission saving process. 
