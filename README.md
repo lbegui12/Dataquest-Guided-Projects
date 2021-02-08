@@ -9,3 +9,5 @@ This repo contains several projects I undertook while studying Data Science (fol
 - Car Price Prediction : after exploring and cleaning the dataset, we'll predict a car price based on its mecanical caracteristic. Here you will see data cleaning (removing or replacing missing values), univariate and multivariate K Neighboor regression.
 
 - Kaggle Titanic Problem : This project is a skeleton of a submission workflow for the notorious Titanic problem from Kaggle (https://www.kaggle.com/c/titanic). It includes data cleaning and processing, feature engineering and selection, grid search on different regression models and submission saving process. 
+
+- Handwritten digit recognition : quite self-explanatory, here we'll take a look at different classifying algorithm (KNN, MLP, decision tree and Random Forest).
