@@ -15,3 +15,5 @@ This repo contains several projects I undertook while studying Data Science (fol
 - House Sale Price Estimation : Here we'll use the AmesHousing dataset to predict the price of a house. Building a better model at incrementally while creating a well structured method in the process. It all comes down to three main steps : transform the features, select them and testing the model. This a is a great start for any prediction problem.
 
 - Predicting Stock Market : you want to get rich real fast and easy ? Here is the solution ! Here we'll predict the stock market using feature engineering and a mere linear regression. A good starting point for time series analysis !
+
+- SMS Spam Filter : Are you tired of getting ads ? With this simple project, the nightmare is over ! Using the Multinomial Naive Bayes algorithm, we'll filter spam from ham with a 98% accuracy ! 
